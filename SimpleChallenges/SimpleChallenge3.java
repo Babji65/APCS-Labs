@@ -1,3 +1,5 @@
+//Potatoes for Life
+//Life is Great!
 import java.util.*;
 import java.text.DecimalFormat;
 
